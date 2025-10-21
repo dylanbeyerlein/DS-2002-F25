@@ -91,9 +91,6 @@ def update_portfolio(inventory_dir, lookup_dir, output_file):
 
     needed_lookup_cols = [
         "card_id",
-        "card_name",
-        "card_number",
-        "set_id",
         "set_name",
         "card_market_value",
     ]
@@ -143,4 +140,3 @@ def test():
 if __name__ == "__main__":
     print("Starting update_portfolio.py in Test Mode.", file=sys.stderr)
     test()
-    

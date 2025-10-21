@@ -1,0 +1,8 @@
+===== make Test =====
+--- Running Test Pipeline (Built-in Test Modes) ---
+Starting update_portfolio.py in Test Mode.
+Successfully wrote portfolio CSV to test_card_portfolio.csv!
+Total Portfolio Value: $326.55
+Most Valuable Card: Charizard (ID: base0-4) — $250.75
+Test complete.
+

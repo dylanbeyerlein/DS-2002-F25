@@ -6,3 +6,15 @@ Total Portfolio Value: $326.55
 Most Valuable Card: Charizard (ID: base0-4) — $250.75
 Test complete.
 
+===== make all ===== (Did not refresh due to the 504 error)
+Do you want to add a NEW card set? (yes/no)
+no
+Do you want to refresh ALL existing card sets? (yes/no)
+no
+Running production pipeline.
+ETL Step: updating portfolio...
+Successfully wrote portfolio CSV to card_portfolio.csv!
+Reporting Step: generating summary...
+Total Portfolio Value: $5,646.74
+Most Valuable Card: Charizard (ID: base1-4) — $457.11
+Successfully completed production pipeline.
